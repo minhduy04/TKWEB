@@ -1,0 +1,79 @@
+body{font-size: 20px;
+    background-color:blanchedalmond;
+  
+
+}
+
+/* Global */
+.container{
+    margin-left:60px;  
+    margin-right:30px;
+
+}
+
+ul{ 
+ 
+}
+
+/* Header **/
+header{ padding-top: 20px 70px 5px 1px;
+    margin: -7px; 
+    background-color:aqua;
+    padding:20px;
+    text-decoration-line: underline;
+    
+
+}
+
+header a{
+    color:red;
+  font-size:25px;
+  
+
+}
+
+header li{
+    color:black;
+    display:block;
+    float:right;  
+    padding:30px;
+    
+}
+
+header #branding{
+    color:red;
+
+}
+
+header #branding h1{
+    color:darkred;
+ 
+}
+
+header nav{
+    margin-top:-120px;
+    color:black;
+    display:block;  
+    float:right;    
+    padding:20px;
+
+}
+
+header .highlight, header .current a{
+color:snow;
+
+}
+
+header a:hover{
+    color:snow;
+
+
+}
+
+footer{ padding: 25px;
+    background-color:orangered;
+    text-align: center;
+    text-decoration-line: underline;
+  
+}
+
